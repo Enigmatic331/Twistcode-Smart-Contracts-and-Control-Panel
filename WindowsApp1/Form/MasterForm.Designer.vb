@@ -62,7 +62,7 @@ Partial Class MasterForm
         Me.GroupBox2.Size = New System.Drawing.Size(544, 119)
         Me.GroupBox2.TabIndex = 1
         Me.GroupBox2.TabStop = False
-        Me.GroupBox2.Text = "Deploy TwistCode Token (Disabled If Deployed)"
+        Me.GroupBox2.Text = "Deploy Twistcode Token (Disabled If Deployed)"
         '
         'btndeployToken
         '

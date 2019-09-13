@@ -21,3 +21,27 @@ D:\Celebrus\Twistcode\TwistCode SC Control Panel\WindowsApp1\obj\Debug\TwistCode
 D:\Celebrus\Twistcode\TwistCode SC Control Panel\WindowsApp1\obj\Debug\TwistcodeTokenManager.exe
 D:\Celebrus\Twistcode\TwistCode SC Control Panel\WindowsApp1\obj\Debug\TwistcodeTokenManager.xml
 D:\Celebrus\Twistcode\TwistCode SC Control Panel\WindowsApp1\obj\Debug\TwistcodeTokenManager.pdb
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\bin\Debug\TwistcodeTokenManager.exe.config
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\bin\Debug\TwistcodeTokenManager.exe
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\bin\Debug\TwistcodeTokenManager.pdb
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\bin\Debug\TwistcodeTokenManager.xml
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\bin\Debug\Common.Logging.Core.dll
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\bin\Debug\Nethereum.Portable.dll
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\bin\Debug\System.Net.Http.dll
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\bin\Debug\Common.Logging.Core.pdb
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\bin\Debug\Common.Logging.Core.xml
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\obj\Debug\TwistCodeTokenManager.vbprojAssemblyReference.cache
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\obj\Debug\TwistcodeTokenManager.inputbox.resources
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\obj\Debug\TwistcodeTokenManager.TimeLock.resources
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\obj\Debug\TwistcodeTokenManager.TokenDistributor.resources
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\obj\Debug\TwistcodeTokenManager.MasterForm.resources
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\obj\Debug\TwistcodeTokenManager.Resources.resources
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\obj\Debug\TwistCodeTokenManager.vbproj.GenerateResource.cache
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\obj\Debug\TwistCodeTokenManager.vbproj.CoreCompileInputs.cache
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\obj\Debug\TwistCodeTokenManager.vbproj.CopyComplete
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\obj\Debug\TwistcodeTokenManager.exe
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\obj\Debug\TwistcodeTokenManager.xml
+D:\Celebrus\Twistcode\Celebrus-for-Twistcode\WindowsApp1\obj\Debug\TwistcodeTokenManager.pdb

@@ -15,6 +15,7 @@ Public Class MasterForm
             btndeployToken.Enabled = True
             GroupBox2.Enabled = True
         Else
+            cmbNetwork.SelectedIndex = cmbNetwork.FindStringExact(setting.DeployedToNetwork)
             btndeployToken.Enabled = False
             GroupBox2.Enabled = False
         End If
@@ -98,6 +99,7 @@ Public Class MasterForm
                         Clipboard.SetText(contractAddress)
 
                         setting.DeployedContract = contractAddress
+                        setting.DeployedToNetwork = cmbNetwork.SelectedItem.Value.ToString
                         Dim json As String = JsonConvert.SerializeObject(setting, Formatting.Indented)
                         Dim objWriter As New System.IO.StreamWriter("settings.json")
                         objWriter.Write(json)
